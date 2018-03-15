@@ -26,6 +26,9 @@ ADDING NNNNN EEEE WWW  ___?___
 	git branch  NEW_BRANCH_NAME
 	git checkout -b NEW_BRANCH_NAME  (-b will also create branch during checkout)
 
+	when you commit for the first time, on the new branch , you have to push this way
+
+	git push --set-upstream origin Test_Branching
 
 
 	Merging
