@@ -37,3 +37,11 @@ ADDING NNNNN EEEE WWW  ___?___
 
 			git checkout master
 			git merge Test_Branching
+
+
+	Delete a branch
+	
+		git branch -D Test_Branching 
+
+	Pull Requests 
+		to request merging of code back in to main branch			
