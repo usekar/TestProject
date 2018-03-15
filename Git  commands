@@ -6,3 +6,7 @@ Git  commands
 	git add file name
 
 	git commit -m "message "
+	git commit -am "message "   --- add files and commit 
+
+
+	git status 
