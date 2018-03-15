@@ -22,4 +22,15 @@ ADDING NNNNN EEEE WWW  ___?___
 
 	Branching
 
-	git branches (  to get list of all branches)		
+	git branch  (  to get list of all branches, with a star indicating current branch name)		
+	git branch  NEW_BRANCH_NAME
+	git checkout -b NEW_BRANCH_NAME  (-b will also create branch during checkout)
+
+
+
+	Merging
+
+		git merge NEW_BRANCH_NAME  (will merge this to where ever you are , like MASTER/ORIGIN or a different branch)
+
+			git checkout master
+			git merge Test_Branching
