@@ -14,3 +14,7 @@ ADDING NNNNN EEEE WWW  ___?___
 
 
 	git status 
+
+	git reset --hard origin/master
+	git reset --hard commit_tag
+		you may need to pull to get it back to the current level, as resets affected your  local copies
