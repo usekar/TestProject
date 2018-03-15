@@ -16,5 +16,10 @@ ADDING NNNNN EEEE WWW  ___?___
 	git status 
 
 	git reset --hard origin/master
-	git reset --hard commit_tag
+	git reset --hard commit_hashtag   (get it from git log)
 		you may need to pull to get it back to the current level, as resets affected your  local copies
+
+
+	Branching
+
+	git branches (  to get list of all branches)		
