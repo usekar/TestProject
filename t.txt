@@ -1,0 +1,18 @@
+ Volume in drive C is Windows
+ Volume Serial Number is EA59-A2AC
+
+ Directory of C:\tech
+
+06/12/2019  10:24 PM    <DIR>          .
+06/12/2019  10:24 PM    <DIR>          ..
+04/07/2018  10:34 PM    <DIR>          AWS Certification
+12/28/2018  05:34 PM    <DIR>          AWS-LearnTek
+02/14/2018  09:43 PM    <DIR>          AWS-outside company
+02/03/2018  08:03 PM    <DIR>          AWS-PluralSight
+10/02/2018  05:42 AM    <DIR>          AWS-Udemy
+03/19/2018  08:48 PM    <DIR>          docker-web-development-PLURALSIGHT
+10/31/2018  08:18 PM    <DIR>          FTC2019
+06/12/2019  10:26 PM    <DIR>          Git
+06/01/2019  09:24 AM    <DIR>          nodeJS-Learntek
+               0 File(s)              0 bytes
+              11 Dir(s)  30,196,748,288 bytes free
